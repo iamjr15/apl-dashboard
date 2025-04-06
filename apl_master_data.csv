@@ -1,0 +1,448 @@
+Player ID,Player Name,Gender,Team,Position,Primary Position,Tier,Price,Price Category,Value Rating,Ranking,Edition,In Latest Edition,Edition Count,Price Trend,Price Tier Ratio,Historical_Avg_Price,Historical_Min_Price,Historical_Max_Price,Historical_Avg_Tier,Price_Variance_From_Avg,Tier_Movement,Value_Proposition,Tier_Min_Ranking,Is_Tier_Top,Export_Date,Data_Version,Recommended_Price
+1,Aman Antil,Man,The Übermensch United,"Attacker, Midfielder",Midfielder,1,63,Premium,0.63,,APL 6.0,False,3,42.0,63.0,35.0,0,63,1.3,28.0,0.0,,1.0,False,2025-04-07,1.0,
+2,Anandi Laxmi Somiah,Non-Cis,Hasbulla FC,Midfielder,Midfielder,1,18,Medium,2.22,,APL 6.0,False,1,0.0,18.0,18.0,18,18,1.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+3,Anandita Saksena,Non-Cis,The Übermensch United,"Defender, Goalkeeper",Goalkeeper,1,26,Medium,1.54,,APL 6.0,False,2,0.0,26.0,13.0,0,26,1.0,13.0,0.0,,1.0,False,2025-04-07,1.0,
+4,Anika Jhunjhunwala,Non-Cis,The Red Challengers,"Defender, Midfielder",Defender,1,21,Medium,1.9,,APL 6.0,False,2,0.0,21.0,10.5,0,21,1.0,10.5,0.0,,1.0,False,2025-04-07,1.0,
+5,Aryan Yadav,Man,Suiiicide Squad,Midfielder,Midfielder,1,93,Premium,0.43,,APL 6.0,False,1,0.0,93.0,93.0,93,93,1.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+6,Atharva Dawar,Man,Hasbulla FC,"Attacker, Midfielder",Midfielder,1,65,Premium,0.62,,APL 6.0,False,2,0.0,65.0,32.5,0,65,1.0,32.5,0.0,,1.0,False,2025-04-07,1.0,
+7,Dhrthi Bhat,Non-Cis,F.C. Pineapple,"Attacker, Midfielder",Midfielder,1,30,High,1.33,,APL 6.0,False,2,0.0,30.0,15.0,0,30,1.0,15.0,0.0,,1.0,False,2025-04-07,1.0,
+8,Dhruv Achappa,Man,The Red Challengers,"Defender, Midfielder",Defender,1,87,Premium,0.46,,APL 6.0,False,3,120.0,87.0,69.0,0,120,1.0,18.0,0.0,,1.0,False,2025-04-07,1.0,
+9,Dhruv Damodhar,Man,Dholakpur FC,"Defender, Goalkeeper",Goalkeeper,1,46,High,0.87,,APL 6.0,False,2,0.0,46.0,44.0,42,46,1.5,2.0,0.0,,1.0,False,2025-04-07,1.0,
+10,Manya Malhotra,Non-Cis,Chakravyuh,"Defender, Midfielder",Defender,1,16,Medium,2.5,,APL 6.0,False,2,0.0,16.0,8.0,0,16,1.0,8.0,0.0,,1.0,False,2025-04-07,1.0,
+11,Neeta Kumari,Non-Cis,Thaali Number 420,"Attacker, Midfielder",Midfielder,1,40,High,1.0,,APL 6.0,False,2,0.0,40.0,20.0,0,40,1.0,20.0,0.0,,1.0,False,2025-04-07,1.0,
+12,Nikhil Mishra,Man,Ngolo FC,"Defender, Midfielder",Defender,1,45,High,0.89,,APL 6.0,False,2,0.0,45.0,62.5,45,80,1.0,-17.5,0.0,,1.0,False,2025-04-07,1.0,
+13,Riwa Desai,Non-Cis,Dholakpur FC,"Attacker, Midfielder",Midfielder,1,15,Medium,2.67,,APL 6.0,False,2,0.0,15.0,7.5,0,15,1.5,7.5,0.0,,1.0,False,2025-04-07,1.0,
+14,Zahaan Shapoorjee,Man,Ngolo FC,Attacker,Attacker,1,87,Premium,0.46,,APL 6.0,False,2,0.0,87.0,43.5,0,87,1.0,43.5,0.0,,1.0,False,2025-04-07,1.0,
+15,Aahana Banarjee,Non-Cis,ELEPHANT.,"Defender, Midfielder",Defender,2,21,Medium,1.43,,APL 6.0,False,1,0.0,10.5,21.0,21,21,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+16,Ahaan Krishnaprasad,Man,Club Penguin,"Defender, Midfielder",Defender,2,32,High,0.94,,APL 6.0,False,3,80.0,16.0,37.3,0,80,1.7,-5.299999999999997,0.0,,1.0,False,2025-04-07,1.0,
+17,Ahmed ahmed,Man,Magic Moments,"Attacker, Midfielder",Midfielder,2,29,Medium,1.03,,APL 6.0,False,1,0.0,14.5,29.0,29,29,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+18,Angira Kanwar,Non-Cis,FZ Warriors,"Defender, Midfielder",Defender,2,12,Medium,2.5,,APL 6.0,False,2,0.0,6.0,6.0,0,12,2.0,6.0,0.0,,1.0,False,2025-04-07,1.0,
+19,Arishka Nayak,Non-Cis,Suiiicide Squad,"Defender, Midfielder",Defender,2,16,Medium,1.88,,APL 6.0,False,1,0.0,8.0,16.0,16,16,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+20,Dhananjay Sinh,Man,King's Private,"Attacker, Midfielder",Midfielder,2,55,High,0.55,,APL 6.0,False,3,120.0,27.5,58.3,0,120,1.3,-3.299999999999997,0.0,,1.0,False,2025-04-07,1.0,
+21,Ganeev Chadha,Man,HR26,Defender,Defender,2,26,Medium,1.15,,APL 6.0,False,1,0.0,13.0,26.0,26,26,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+22,Jaidhar Vashist,Man,F.C. Pineapple,"Attacker, Midfielder",Midfielder,2,60,Premium,0.5,,APL 6.0,False,3,120.0,30.0,60.0,0,120,1.3,0.0,0.0,,1.0,False,2025-04-07,1.0,
+23,Jeevant Rajeev,Man,King's Private,"Defender, Midfielder",Defender,2,34,High,0.88,,APL 6.0,False,2,0.0,17.0,24.5,15,34,2.5,9.5,0.0,,1.0,False,2025-04-07,1.0,
+24,Keerthana Sudarshan,Non-Cis,GETY FC,"Defender, Midfielder",Defender,2,9,Low,3.33,,APL 6.0,False,1,0.0,4.5,9.0,9,9,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+25,LAILA ALVA,Non-Cis,No Cap FC,"Attacker, Midfielder",Midfielder,2,20,Medium,1.5,,APL 6.0,False,1,0.0,10.0,20.0,20,20,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+26,"Lamkhogin ""Hazard"" Haokip",Man,ELEPHANT.,"Attacker, Midfielder",Midfielder,2,31,High,0.97,,APL 6.0,False,1,0.0,15.5,31.0,31,31,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+27,Mallika Wavare,Non-Cis,BantaBros,"Attacker, Midfielder",Midfielder,2,16,Medium,1.88,,APL 6.0,False,3,42.0,8.0,19.3,0,42,2.0,-3.3000000000000007,0.0,,1.0,False,2025-04-07,1.0,
+28,Mohammad Dawood Omidi,Man,The Übermensch United,"Defender, Midfielder",Defender,2,48,High,0.62,,APL 6.0,False,1,0.0,24.0,48.0,48,48,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+29,Negash Asayehegn Zeray,Man,Magic Moments,"Defender, Midfielder",Defender,2,46,High,0.65,,APL 6.0,False,1,0.0,23.0,46.0,46,46,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+30,Nishta Rajan,Non-Cis,Mango Bomb,"Defender, Midfielder",Defender,2,15,Medium,2.0,,APL 6.0,False,2,0.0,7.5,7.5,0,15,2.0,7.5,0.0,,1.0,False,2025-04-07,1.0,
+31,Reet Dara,Non-Cis,Club Penguin,"Attacker, Midfielder",Midfielder,2,12,Medium,2.5,,APL 6.0,False,2,0.0,6.0,6.0,0,12,2.5,6.0,0.0,,1.0,False,2025-04-07,1.0,
+32,Tanisha Iyer,Non-Cis,Magic Moments,"Defender, Midfielder",Defender,2,8,Low,3.75,,APL 6.0,False,3,15.0,4.0,7.7,0,15,2.7,0.2999999999999998,0.0,,1.0,False,2025-04-07,1.0,
+33,Uday Srivastava,Man,Suiiicide Squad,"Defender, Midfielder",Defender,2,19,Medium,1.58,,APL 6.0,False,2,0.0,9.5,17.0,15,19,2.5,2.0,0.0,,1.0,False,2025-04-07,1.0,
+34,Zaid Khan,Man,FZ Warriors,"Attacker, Defender",Defender,2,56,High,0.54,,APL 6.0,False,2,0.0,28.0,28.0,0,56,2.0,28.0,0.0,,1.0,False,2025-04-07,1.0,
+35,Aamer Jalan,Man,GETY FC,"Defender, Midfielder",Defender,3,12,Medium,1.67,,APL 6.0,False,2,0.0,4.0,13.5,12,15,3.0,-1.5,0.0,,1.0,False,2025-04-07,1.0,
+36,Aashraya Adhikari,Man,Club Penguin,"Attacker, Goalkeeper",Goalkeeper,3,37,High,0.54,,APL 6.0,False,2,0.0,12.333333333333334,26.0,15,37,3.0,11.0,0.0,,1.0,False,2025-04-07,1.0,
+37,Abeer Karandikar,Man,F.C. Pineapple,"Attacker, Midfielder",Midfielder,3,16,Medium,1.25,,APL 6.0,False,2,0.0,5.333333333333333,15.5,15,16,3.0,0.5,0.0,,1.0,False,2025-04-07,1.0,
+38,Aditya Malhotra,Man,No Cap FC,"Attacker, Midfielder",Midfielder,3,27,Medium,0.74,,APL 6.0,False,2,0.0,9.0,21.0,15,27,3.0,6.0,0.0,,1.0,False,2025-04-07,1.0,
+39,Akhil Madhavan,Man,Billi FC,"Attacker, Midfielder",Midfielder,3,19,Medium,1.05,,APL 6.0,False,1,0.0,6.333333333333333,19.0,19,19,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+40,Amogh Agarwal,Man,Thaali Number 420,"Defender, Midfielder",Defender,3,10,Medium,2.0,,APL 6.0,False,2,0.0,3.333333333333333,11.0,10,12,3.5,-1.0,0.0,,1.0,False,2025-04-07,1.0,
+41,Analie Dutta Choudhury,Non-Cis,HR26,Midfielder,Midfielder,3,6,Low,3.33,,APL 6.0,False,1,0.0,2.0,6.0,6,6,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+42,Ananya Samhita,Non-Cis,King's Private,"Attacker, Midfielder",Midfielder,3,2,Low,10.0,,APL 6.0,False,3,6.0,0.6666666666666666,2.7,0,6,3.3,-0.7000000000000002,0.0,,1.0,False,2025-04-07,1.0,
+43,Anya Gosain,Non-Cis,Mango Bomb,"Attacker, Midfielder",Midfielder,3,6,Low,3.33,,APL 6.0,False,2,0.0,2.0,6.0,6,6,3.5,0.0,0.0,,1.0,False,2025-04-07,1.0,
+44,Arjun Khanna,Man,Hasbulla FC,"Defender, Goalkeeper",Goalkeeper,3,20,Medium,1.0,,APL 6.0,False,1,0.0,6.666666666666667,20.0,20,20,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+45,Arnav Sahni,Man,Hasbulla FC,"Defender, Goalkeeper",Goalkeeper,3,13,Medium,1.54,,APL 6.0,False,2,0.0,4.333333333333333,9.5,6,13,3.5,3.5,0.0,,1.0,False,2025-04-07,1.0,
+46,Aryamaan Girish,Man,Club Penguin,"Attacker, Defender",Defender,3,29,Medium,0.69,,APL 6.0,False,3,15.0,9.666666666666666,14.7,0,29,2.7,14.3,0.0,,1.0,False,2025-04-07,1.0,
+47,Avi Narula,Man,A-Z,"Defender, Goalkeeper",Goalkeeper,3,12,Medium,1.67,,APL 6.0,False,1,0.0,4.0,12.0,12,12,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+48,Avyay Irde,Man,No Cap FC,"Attacker, Midfielder",Midfielder,3,12,Medium,1.67,,APL 6.0,False,1,0.0,4.0,12.0,12,12,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+49,Ayushman Roy,Man,No Cap FC,"Attacker, Goalkeeper",Goalkeeper,3,19,Medium,1.05,,APL 6.0,False,2,0.0,6.333333333333333,17.0,15,19,3.0,2.0,0.0,,1.0,False,2025-04-07,1.0,
+50,Bhavya Gupta,Man,ELEPHANT.,"Attacker, Midfielder",Midfielder,3,18,Medium,1.11,,APL 6.0,False,1,0.0,6.0,18.0,18,18,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+51,Chaitanyaa Nair,Non-Cis,Dholakpur FC,"Defender, Goalkeeper",Goalkeeper,3,6,Low,3.33,,APL 6.0,False,1,0.0,2.0,6.0,6,6,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+52,Dhritvan Alva,Man,F.C. Pineapple,"Defender, Goalkeeper",Goalkeeper,3,16,Medium,1.25,,APL 6.0,False,1,0.0,5.333333333333333,16.0,16,16,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+53,Divena Kaul,Non-Cis,Thaali Number 420,"Attacker, Midfielder",Midfielder,3,7,Low,2.86,,APL 6.0,False,1,0.0,2.333333333333333,7.0,7,7,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+54,GOKUL SUNDARARAGHAVAN,Man,Chakravyuh,"Attacker, Midfielder",Midfielder,3,19,Medium,1.05,,APL 6.0,False,1,0.0,6.333333333333333,19.0,19,19,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+55,Jagat Kafle,Man,HR26,"Attacker, Midfielder",Midfielder,3,16,Medium,1.25,,APL 6.0,False,1,0.0,5.333333333333333,16.0,16,16,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+56,Jatin Dangi,Man,Hype Fly FC,"Attacker, Midfielder",Midfielder,3,8,Low,2.5,,APL 6.0,False,2,0.0,2.6666666666666665,11.5,8,15,3.0,-3.5,0.0,,1.0,False,2025-04-07,1.0,
+57,Joe Barlow,Man,No Cap FC,"Defender, Midfielder",Defender,3,22,Medium,0.91,,APL 6.0,False,1,0.0,7.333333333333333,22.0,22,22,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+58,Karthik Sridhar,Man,FZ Warriors,"Attacker, Midfielder",Midfielder,3,15,Medium,1.33,,APL 6.0,False,2,0.0,5.0,15.0,15,15,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+59,Kartikay Dutta,Man,King's Private,"Attacker, Goalkeeper",Goalkeeper,3,15,Medium,1.33,,APL 6.0,False,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+60,Krish Shah,Man,Mango Bomb,"Defender, Goalkeeper",Goalkeeper,3,6,Low,3.33,,APL 6.0,False,1,0.0,2.0,6.0,6,6,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+61,Kushal Shahi,Man,ELEPHANT.,"Defender, Midfielder",Defender,3,7,Low,2.86,,APL 6.0,False,2,0.0,2.333333333333333,9.5,7,12,3.5,-2.5,0.0,,1.0,False,2025-04-07,1.0,
+62,LAKSHYA BAMAL,Man,The Red Challengers,"Defender, Midfielder",Defender,3,8,Low,2.5,,APL 6.0,False,1,0.0,2.6666666666666665,8.0,8,8,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+63,Misha Singh,Non-Cis,BantaBros,"Defender, Midfielder",Defender,3,3,Low,6.67,,APL 6.0,False,1,0.0,1.0,3.0,3,3,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+64,Ojas Tripathi,Man,BantaBros,"Defender, Midfielder",Defender,3,12,Medium,1.67,,APL 6.0,False,1,0.0,4.0,12.0,12,12,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+65,Purujit Banwasi,Man,Dholakpur FC,"Attacker, Midfielder",Midfielder,3,20,Medium,1.0,,APL 6.0,False,2,0.0,6.666666666666667,17.5,15,20,3.0,2.5,0.0,,1.0,False,2025-04-07,1.0,
+66,Rayomand Sharukh Bhacka,Man,Ngolo FC,"Defender, Midfielder",Defender,3,4,Low,5.0,,APL 6.0,False,1,0.0,1.3333333333333333,4.0,4,4,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+67,Rehaan Raha,Man,Club Penguin,"Defender, Midfielder",Defender,3,16,Medium,1.25,,APL 6.0,False,1,0.0,5.333333333333333,16.0,16,16,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+68,Rijul Ganju,Man,HR26,"Goalkeeper, Midfielder",Goalkeeper,3,19,Medium,1.05,,APL 6.0,False,1,0.0,6.333333333333333,19.0,19,19,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+69,Riti Bhatia,Non-Cis,Suiiicide Squad,"Defender, Midfielder",Defender,3,1,Low,20.0,,APL 6.0,False,1,0.0,0.3333333333333333,1.0,1,1,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+70,Sankalp Dasmohapatra,Man,GETY FC,"Attacker, Defender",Defender,3,16,Medium,1.25,,APL 6.0,False,1,0.0,5.333333333333333,16.0,16,16,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+71,Sanskar Das,Man,No Cap FC,"Attacker, Midfielder",Midfielder,3,15,Medium,1.33,,APL 6.0,False,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+72,Shalini Balodi,Non-Cis,Hype Fly FC,"Attacker, Midfielder",Midfielder,3,2,Low,10.0,,APL 6.0,False,2,0.0,0.6666666666666666,1.0,0,2,3.5,1.0,0.0,,1.0,False,2025-04-07,1.0,
+73,Shiv Sharma,Man,Hype Fly FC,"Attacker, Midfielder",Midfielder,3,22,Medium,0.91,,APL 6.0,False,1,0.0,7.333333333333333,22.0,22,22,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+74,Shudiksha Basu,Non-Cis,GETY FC,"Attacker, Defender",Defender,3,4,Low,5.0,,APL 6.0,False,1,0.0,1.3333333333333333,4.0,4,4,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+75,Siddh Veer Bakshi,Man,HR26,"Attacker, Midfielder",Midfielder,3,15,Medium,1.33,,APL 6.0,False,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+76,Siddharth Menon,Man,A-Z,"Attacker, Midfielder",Midfielder,3,7,Low,2.86,,APL 6.0,False,1,0.0,2.333333333333333,7.0,7,7,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+77,Siddharth Sonal,Man,Dholakpur FC,"Defender, Midfielder",Defender,3,16,Medium,1.25,,APL 6.0,False,2,0.0,5.333333333333333,15.5,15,16,3.0,0.5,0.0,,1.0,False,2025-04-07,1.0,
+78,Smayan Chadha,Man,BantaBros,"Attacker, Defender",Defender,3,13,Medium,1.54,,APL 6.0,False,1,0.0,4.333333333333333,13.0,13,13,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+79,Souti Mukhopadhyay,Man,ELEPHANT.,"Attacker, Midfielder",Midfielder,3,10,Medium,2.0,,APL 6.0,False,1,0.0,3.333333333333333,10.0,10,10,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+80,Tamarish Talukdar,Man,F.C. Pineapple,"Defender, Midfielder",Defender,3,3,Low,6.67,,APL 6.0,False,2,0.0,1.0,1.5,0,3,2.5,1.5,0.0,,1.0,False,2025-04-07,1.0,
+81,Tanay Parekh,Man,Magic Moments,"Defender, Midfielder",Defender,3,24,Medium,0.83,,APL 6.0,False,2,0.0,8.0,19.5,15,24,3.0,4.5,0.0,,1.0,False,2025-04-07,1.0,
+82,Tanvi Jain,Non-Cis,Hasbulla FC,"Attacker, Midfielder",Midfielder,3,2,Low,10.0,,APL 6.0,False,2,0.0,0.6666666666666666,4.0,2,6,3.5,-2.0,0.0,,1.0,False,2025-04-07,1.0,
+83,Tejasdeep Singh,Man,ELEPHANT.,"Defender, Midfielder",Defender,3,31,High,0.65,,APL 6.0,False,1,0.0,10.333333333333334,31.0,31,31,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+84,Uttkarsh Kohli,Man,Suiiicide Squad,"Attacker, Midfielder",Midfielder,3,25,Medium,0.8,,APL 6.0,False,2,0.0,8.333333333333334,20.0,15,25,3.0,5.0,0.0,,1.0,False,2025-04-07,1.0,
+85,vansh jogani,Man,FZ Warriors,"Attacker, Midfielder",Midfielder,3,30,High,0.67,,APL 6.0,False,1,0.0,10.0,30.0,30,30,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+86,Vibhuti Gupta,Non-Cis,ELEPHANT.,"Attacker, Midfielder",Midfielder,3,9,Low,2.22,,APL 6.0,False,1,0.0,3.0,9.0,9,9,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+87,Vighnesh P,Man,KFC,Goalkeeper,Goalkeeper,3,16,Medium,1.25,,APL 6.0,False,1,0.0,5.333333333333333,16.0,16,16,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+88,Vini Desai,Non-Cis,Chakravyuh,"Defender, Goalkeeper",Goalkeeper,3,1,Low,20.0,,APL 6.0,False,1,0.0,0.3333333333333333,1.0,1,1,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+89,Aadi Menon,Man,The Red Challengers,"Attacker, Midfielder",Midfielder,4,3,Low,3.33,,APL 6.0,False,2,0.0,0.75,9.0,3,15,3.5,-6.0,0.0,,1.0,False,2025-04-07,1.0,
+90,Aakanksha Agrawal,Non-Cis,The Übermensch United,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+91,Aan Rakshit,Man,Hype Fly FC,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,2,0.0,0.5,4.0,2,6,4.0,-2.0,0.0,,1.0,False,2025-04-07,1.0,
+92,Aarav Jain,Man,Thaali Number 420,"Goalkeeper, Midfielder",Goalkeeper,4,5,Low,2.0,,APL 6.0,False,2,0.0,1.25,10.0,5,15,3.5,-5.0,0.0,,1.0,False,2025-04-07,1.0,
+93,Adarsh Raj,Man,Billi FC,"Attacker, Midfielder",Midfielder,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+94,Aditi Narwekar,Non-Cis,The Red Challengers,"Defender, Goalkeeper",Goalkeeper,4,5,Low,2.0,,APL 6.0,False,3,6.0,1.25,3.7,0,6,4.0,1.2999999999999998,0.0,,1.0,False,2025-04-07,1.0,
+95,Aditya Dogra,Man,ELEPHANT.,"Goalkeeper, Midfielder",Goalkeeper,4,3,Low,3.33,,APL 6.0,False,2,0.0,0.75,9.0,3,15,3.5,-6.0,0.0,,1.0,False,2025-04-07,1.0,
+96,Aditya Goel,Man,Chakravyuh,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+97,Afsaar Maniyar,Man,A-Z,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+98,Akshat Arora,Man,Chakravyuh,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+99,Akshat Jain,Man,Billi FC,"Attacker, Midfielder",Midfielder,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+100,Allen Binu Alex,Man,The Red Challengers,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+101,Aman Sharma,Man,F.C. Pineapple,"Attacker, Midfielder",Midfielder,4,12,Medium,0.83,,APL 6.0,False,2,0.0,3.0,13.5,12,15,3.5,-1.5,0.0,,1.0,False,2025-04-07,1.0,
+102,Amit Kumar,Non-Cis,King's Private,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+103,Anantharaman S V,Man,Hype Fly FC,"Defender, Midfielder",Defender,4,5,Low,2.0,,APL 6.0,False,1,0.0,1.25,5.0,5,5,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+104,Anirudh Krishnan,Man,Hype Fly FC,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+105,Anirudha Ahluwalia,Man,The Red Challengers,"Attacker, Midfielder",Midfielder,4,6,Low,1.67,,APL 6.0,False,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+106,Anna Upreti,Non-Cis,Ngolo FC,"Defender, Goalkeeper",Goalkeeper,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+107,Anupam Varma,Man,King's Private,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,2,0.0,0.5,8.5,2,15,3.5,-6.5,0.0,,1.0,False,2025-04-07,1.0,
+108,Anushri Tewari,Non-Cis,Hype Fly FC,"Attacker, Midfielder",Midfielder,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+109,Anya Mandal,Non-Cis,A-Z,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,2,0.0,0.25,0.5,0,1,4.0,0.5,0.0,,1.0,False,2025-04-07,1.0,
+110,Arhaan Gupta,Man,GETY FC,"Defender, Midfielder",Defender,4,4,Low,2.5,,APL 6.0,False,2,0.0,1.0,5.0,4,6,4.0,-1.0,0.0,,1.0,False,2025-04-07,1.0,
+111,Arihant Hemendra,Man,No Cap FC,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+112,Arin Prabhat,Man,Mango Bomb,"Attacker, Midfielder",Midfielder,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+113,Arko Dutt,Man,Ngolo FC,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+114,Arnav Haldia,Man,Billi FC,"Defender, Midfielder",Defender,4,8,Low,1.25,,APL 6.0,False,2,0.0,2.0,11.5,8,15,3.5,-3.5,0.0,,1.0,False,2025-04-07,1.0,
+115,Arya Shah,Man,BantaBros,"Defender, Goalkeeper",Goalkeeper,4,8,Low,1.25,,APL 6.0,False,2,0.0,2.0,11.5,8,15,3.5,-3.5,0.0,,1.0,False,2025-04-07,1.0,
+116,Aryan Gupta,Man,Magic Moments,"Attacker, Midfielder",Midfielder,4,4,Low,2.5,,APL 6.0,False,2,0.0,1.0,5.0,4,6,4.0,-1.0,0.0,,1.0,False,2025-04-07,1.0,
+117,Atharv Bokil,Man,BantaBros,"Attacker, Defender",Defender,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+118,Aviraj Chopra,Man,Ngolo FC,"Defender, Goalkeeper",Goalkeeper,4,4,Low,2.5,,APL 6.0,False,2,0.0,1.0,5.0,4,6,4.0,-1.0,0.0,,1.0,False,2025-04-07,1.0,
+119,Ayush Kishor,Man,GETY FC,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+120,Ayush Tiwari,Man,Dholakpur FC,Attacker,Attacker,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+121,Devaki Divan,Non-Cis,Billi FC,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+122,Devesh Jaryal,Man,Thaali Number 420,"Attacker, Midfielder",Midfielder,4,8,Low,1.25,,APL 6.0,False,1,0.0,2.0,8.0,8,8,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+123,Dhananjay Dogra,Man,Thaali Number 420,Defender,Defender,4,8,Low,1.25,,APL 6.0,False,1,0.0,2.0,8.0,8,8,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+124,Dhruv Aryan,Man,The Übermensch United,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+125,Dhruva Gupta,Man,Suiiicide Squad,"Defender, Midfielder",Defender,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+126,Dhruvan Nair,Man,KFC,Midfielder,Midfielder,4,9,Low,1.11,,APL 6.0,False,1,0.0,2.25,9.0,9,9,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+127,Dilshad Alam,Man,The Übermensch United,"Attacker, Midfielder",Midfielder,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+128,Hemasimha Dharmana,Man,Suiiicide Squad,"Attacker, Goalkeeper",Goalkeeper,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+129,Hima Varshith,Man,F.C. Pineapple,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+130,Ishabasya Moitra,Man,ELEPHANT.,"Attacker, Midfielder",Midfielder,4,16,Medium,0.62,,APL 6.0,False,2,0.0,4.0,11.0,6,16,4.0,5.0,0.0,,1.0,False,2025-04-07,1.0,
+131,Ishan Dubey,Man,The Red Challengers,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,2,0.0,0.75,5.5,3,8,3.5,-2.5,0.0,,1.0,False,2025-04-07,1.0,
+132,Jagrit Khatri,Man,Hasbulla FC,"Goalkeeper, Midfielder",Goalkeeper,4,11,Medium,0.91,,APL 6.0,False,1,0.0,2.75,11.0,11,11,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+133,Jaipal Rathore,Man,FZ Warriors,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+134,Jivansh Sharma,Man,The Übermensch United,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+135,Kabeer Murugkar,Man,King's Private,"Attacker, Defender",Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+136,Karan Kapadia,Man,Ngolo FC,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,2,0.0,0.25,3.5,1,6,4.0,-2.5,0.0,,1.0,False,2025-04-07,1.0,
+137,Kartikay Sharma,Man,Club Penguin,"Attacker, Defender",Defender,4,7,Low,1.43,,APL 6.0,False,1,0.0,1.75,7.0,7,7,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+138,KESHAV AGRAWAL,Man,F.C. Pineapple,"Defender, Goalkeeper",Goalkeeper,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+139,Krishanu Kashyap,Man,Ngolo FC,"Attacker, Midfielder",Midfielder,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+140,Krishna Rengaraj,Man,The Red Challengers,Defender,Defender,4,5,Low,2.0,,APL 6.0,False,1,0.0,1.25,5.0,5,5,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+141,Madhav Nayar,Man,King's Private,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+142,Madhavan Jayakrishnan,Man,F.C. Pineapple,Defender,Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+143,Mahesh Jalnila,Man,Hasbulla FC,"Attacker, Midfielder",Midfielder,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+144,Mahi Singh,Non-Cis,Vanar Sena,Defender,Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+145,Manan Chhugani,Man,KFC,Midfielder,Midfielder,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+146,Mansher Singh,Man,Dholakpur FC,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+147,Nageshwar Kumar,Man,Vanar Sena,Attacker,Attacker,4,6,Low,1.67,,APL 6.0,False,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+148,Naman Agarwal,Man,Thaali Number 420,"Attacker, Midfielder",Midfielder,4,30,High,0.33,,APL 6.0,False,1,0.0,7.5,30.0,30,30,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+149,Narendra Chatta,Man,Vanar Sena,"Attacker, Midfielder",Midfielder,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+150,Nisanka Khataniar,Man,Club Penguin,"Attacker, Midfielder",Midfielder,4,8,Low,1.25,,APL 6.0,False,2,0.0,2.0,11.5,8,15,3.5,-3.5,0.0,,1.0,False,2025-04-07,1.0,
+151,Nisarg Shah,Man,Billi FC,"Defender, Goalkeeper",Goalkeeper,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+152,Paritosh Panda,Man,A-Z,"Defender, Goalkeeper",Goalkeeper,4,7,Low,1.43,,APL 6.0,False,1,0.0,1.75,7.0,7,7,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+153,Prabhveer Singh Bedi,Man,Vanar Sena,"Goalkeeper, Midfielder",Goalkeeper,4,6,Low,1.67,,APL 6.0,False,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+154,Pradyumna Subhir,Man,Thaali Number 420,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+155,Praneel Sati,Man,GETY FC,"Defender, Goalkeeper",Goalkeeper,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+156,Pratyush Panda,Man,Dholakpur FC,"Attacker, Defender",Defender,4,17,Medium,0.59,,APL 6.0,False,2,0.0,4.25,16.0,15,17,3.5,1.0,0.0,,1.0,False,2025-04-07,1.0,
+157,Prayag Raj Pandey,Man,Hasbulla FC,"Attacker, Midfielder",Midfielder,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+158,Prithvi Bapna,Man,Magic Moments,"Defender, Midfielder",Defender,4,11,Medium,0.91,,APL 6.0,False,1,0.0,2.75,11.0,11,11,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+159,Raheem Manoj,Man,KFC,"Defender, Midfielder",Defender,4,4,Low,2.5,,APL 6.0,False,2,0.0,1.0,9.5,4,15,3.5,-5.5,0.0,,1.0,False,2025-04-07,1.0,
+160,Reuben Abraham Chacko,Man,Dholakpur FC,"Defender, Midfielder",Defender,4,15,Medium,0.67,,APL 6.0,False,1,0.0,3.75,15.0,15,15,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+161,Rishit Roy,Man,The Red Challengers,"Defender, Goalkeeper",Goalkeeper,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+162,Rivan Sengupta,Man,FZ Warriors,"Attacker, Goalkeeper",Goalkeeper,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+163,Rudra Saxena,Man,A-Z,"Goalkeeper, Midfielder",Goalkeeper,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+164,Sahil Garud,Man,Dholakpur FC,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+165,Sanidhya Gautam,Man,Suiiicide Squad,"Attacker, Defender",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+166,Santosh Adhikari,Man,Dholakpur FC,"Attacker, Midfielder",Midfielder,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+167,Sarib Bhat,Man,Thaali Number 420,"Attacker, Midfielder",Midfielder,4,11,Medium,0.91,,APL 6.0,False,1,0.0,2.75,11.0,11,11,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+168,Shantanu Iyer,Man,Club Penguin,"Attacker, Midfielder",Midfielder,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+169,Sharvil Sankriti,Man,The Übermensch United,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+170,Shaurya Batra,Man,King's Private,"Defender, Midfielder",Defender,4,15,Medium,0.67,,APL 6.0,False,2,0.0,3.75,15.0,15,15,3.5,0.0,0.0,,1.0,False,2025-04-07,1.0,
+171,Shiva Rajpoot,Man,FZ Warriors,"Attacker, Midfielder",Midfielder,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+172,Siddharth Nattu Natarajan,Man,Suiiicide Squad,"Attacker, Midfielder",Midfielder,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+173,Snehal Papnoi,Man,BantaBros,"Defender, Midfielder",Defender,4,7,Low,1.43,,APL 6.0,False,2,0.0,1.75,11.0,7,15,3.5,-4.0,0.0,,1.0,False,2025-04-07,1.0,
+174,Sofia Bagolin,Non-Cis,Club Penguin,"Defender, Midfielder",Defender,4,7,Low,1.43,,APL 6.0,False,2,0.0,1.75,3.5,0,7,4.0,3.5,0.0,,1.0,False,2025-04-07,1.0,
+175,Spandan Pandya,Man,BantaBros,"Attacker, Midfielder",Midfielder,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+176,Sutanto Mukherjee,Man,F.C. Pineapple,"Defender, Midfielder",Defender,4,1,Low,10.0,,APL 6.0,False,1,0.0,0.25,1.0,1,1,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+177,Tanmay Jalan,Man,Magic Moments,Defender,Defender,4,4,Low,2.5,,APL 6.0,False,2,0.0,1.0,9.5,4,15,3.5,-5.5,0.0,,1.0,False,2025-04-07,1.0,
+178,Tanush Jayani,Man,ELEPHANT.,Goalkeeper,Goalkeeper,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+179,Tara Doraiswamy,Non-Cis,FZ Warriors,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+180,Ved Kushalappa,Man,The Red Challengers,"Defender, Midfielder",Defender,4,3,Low,3.33,,APL 6.0,False,1,0.0,0.75,3.0,3,3,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+181,Veer Vardhan Singh,Man,No Cap FC,"Defender Attacker - Need, Midfielder",Midfielder,4,11,Medium,0.91,,APL 6.0,False,1,0.0,2.75,11.0,11,11,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+182,Vishesh Verma,Man,Mango Bomb,"Defender, Midfielder",Defender,4,2,Low,5.0,,APL 6.0,False,1,0.0,0.5,2.0,2,2,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+183,Vishnu Dev Pandey,Man,Hype Fly FC,"Attacker, Midfielder",Midfielder,4,12,Medium,0.83,,APL 6.0,False,1,0.0,3.0,12.0,12,12,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+184,Vrishin Deepak Bhatia,Man,GETY FC,"Attacker, Midfielder",Midfielder,4,4,Low,2.5,,APL 6.0,False,1,0.0,1.0,4.0,4,4,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+185,Yash Keshan,Man,Vanar Sena,"Defender, Midfielder",Defender,4,5,Low,2.0,,APL 6.0,False,2,0.0,1.25,10.0,5,15,3.5,-5.0,0.0,,1.0,False,2025-04-07,1.0,
+186,Aman Antil,Man,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,3,42.0,0.0,35.0,0,63,1.3,-35.0,0.0,,1.0,False,2025-04-07,1.0,
+187,Atharva Dawar,Man,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,0.0,0.0,32.5,0,65,1.0,-32.5,0.0,,1.0,False,2025-04-07,1.0,
+188,Bhavin Shivaa,Man,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,80.0,0.0,40.0,0,80,1.0,-40.0,0.0,,1.0,False,2025-04-07,1.0,
+189,Cabdifatah Mohamed,Man,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,1.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+190,Dhananjay Sinh,Man,Unknown,Star Player,Star Player,1,0,,0.0,,APL 7.0,False,3,120.0,0.0,58.3,0,120,1.3,-58.3,0.0,,1.0,False,2025-04-07,1.0,
+191,Dhruv Achappa,Man,Unknown,Star Player,Star Player,1,0,,0.0,,APL 7.0,False,3,120.0,0.0,69.0,0,120,1.0,-69.0,0.0,,1.0,False,2025-04-07,1.0,
+192,Jaidhar Vashist,Man,Unknown,Star Player,Star Player,1,0,,0.0,,APL 7.0,False,3,120.0,0.0,60.0,0,120,1.3,-60.0,0.0,,1.0,False,2025-04-07,1.0,
+193,Zahaan Shapoorjee,Man,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,0.0,0.0,43.5,0,87,1.0,-43.5,0.0,,1.0,False,2025-04-07,1.0,
+194,Ahaan Krishnaprasad,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,3,80.0,0.0,37.3,0,80,1.7,-37.3,0.0,,1.0,False,2025-04-07,1.0,
+195,Aneek Chatterjee,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+196,Angad Kanwar,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,42.0,0.0,21.0,0,42,2.0,-21.0,0.0,,1.0,False,2025-04-07,1.0,
+197,Archit Das,Man,Unknown,Star Player,Star Player,2,0,,0.0,,APL 7.0,False,2,120.0,0.0,60.0,0,120,1.5,-60.0,0.0,,1.0,False,2025-04-07,1.0,
+198,Aryan Unarkat,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,42.0,0.0,21.0,0,42,2.0,-21.0,0.0,,1.0,False,2025-04-07,1.0,
+199,Aryamaan Girish,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,3,15.0,0.0,14.7,0,29,2.7,-14.7,0.0,,1.0,False,2025-04-07,1.0,
+200,Chirag Kulshreshtha,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,80.0,0.0,40.0,0,80,1.5,-40.0,0.0,,1.0,False,2025-04-07,1.0,
+201,Da O Lamar,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+202,Samar Sabharwal,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+203,Samarth Bhirani,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+204,Tamarish Talukdar,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,0.0,0.0,1.5,0,3,2.5,-1.5,0.0,,1.0,False,2025-04-07,1.0,
+205,Dhruv Pandey,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,42.0,0.0,21.0,0,42,2.0,-21.0,0.0,,1.0,False,2025-04-07,1.0,
+206,Zaid Khan,Man,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,0.0,0.0,28.0,0,56,2.0,-28.0,0.0,,1.0,False,2025-04-07,1.0,
+207,Aashna Thomas,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,2,15.0,0.0,7.5,0,15,3.0,-7.5,0.0,,1.0,False,2025-04-07,1.0,
+208,Amiya Kumar,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+209,Ananya Samhita,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,3,6.0,0.0,2.7,0,6,3.3,-2.7,0.0,,1.0,False,2025-04-07,1.0,
+210,Anaya Chakrawarti,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,2,42.0,0.0,21.0,0,42,2.5,-21.0,0.0,,1.0,False,2025-04-07,1.0,
+211,Poulomi Sarkar,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+212,Reet Dara,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,2,0.0,0.0,6.0,0,12,2.5,-6.0,0.0,,1.0,False,2025-04-07,1.0,
+213,Shreya Samvatsar,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+214,SHIRIN SHAKIR,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+215,Tanisha Iyer,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,3,15.0,0.0,7.7,0,15,2.7,-7.7,0.0,,1.0,False,2025-04-07,1.0,
+216,Varuni Negi,Man,Unknown,Unknown,Unknown,3,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,3.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+217,Aditi Narwekar,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,3,6.0,0.0,3.7,0,6,4.0,-3.7,0.0,,1.0,False,2025-04-07,1.0,
+218,Ananda Khanna,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+219,Anusha Sonpal,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+220,Anya Mandal,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,2,0.0,0.0,0.5,0,1,4.0,-0.5,0.0,,1.0,False,2025-04-07,1.0,
+221,Avisikta Sinha,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+222,Avyana Jain,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+223,Bhavana Gudnavar,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+224,Kimaaya Cherukoori,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+225,Mehek Anand,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+226,Naaz Gill,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+227,Rianna Basu,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,2,15.0,0.0,7.5,0,15,3.5,-7.5,0.0,,1.0,False,2025-04-07,1.0,
+228,Rutupurna Debalina Naik,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+229,Saima Mehta,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+230,Samridhya Chatterjee,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+231,Sayna Bakshi,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+232,Shalini Balodi,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,2,0.0,0.0,1.0,0,2,3.5,-1.0,0.0,,1.0,False,2025-04-07,1.0,
+233,Sofia Bagolin,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,2,0.0,0.0,3.5,0,7,4.0,-3.5,0.0,,1.0,False,2025-04-07,1.0,
+234,Srishti Sikka,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+235,Tanya Jagannath,Man,Unknown,Unknown,Unknown,4,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,4.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+236,Anandi Somiah,Non-Cis,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,80.0,0.0,40.0,0,80,1.0,-40.0,0.0,,1.0,False,2025-04-07,1.0,
+237,Anandita Saksena,Non-Cis,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,0.0,0.0,13.0,0,26,1.0,-13.0,0.0,,1.0,False,2025-04-07,1.0,
+238,Anika Jhunjhunwala,Non-Cis,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,0.0,0.0,10.5,0,21,1.0,-10.5,0.0,,1.0,False,2025-04-07,1.0,
+239,Dhrthi Bhat,Non-Cis,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,0.0,0.0,15.0,0,30,1.0,-15.0,0.0,,1.0,False,2025-04-07,1.0,
+240,Manya Malhotra,Non-Cis,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,0.0,0.0,8.0,0,16,1.0,-8.0,0.0,,1.0,False,2025-04-07,1.0,
+241,Neeta Kumari,Non-Cis,Unknown,Unknown,Unknown,1,0,,0.0,,APL 7.0,False,2,0.0,0.0,20.0,0,40,1.0,-20.0,0.0,,1.0,False,2025-04-07,1.0,
+242,Aisha Lowe,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+243,Anaaya Ravishankar,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,80.0,0.0,40.0,0,80,1.5,-40.0,0.0,,1.0,False,2025-04-07,1.0,
+244,Angira Kanwar,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,0.0,0.0,6.0,0,12,2.0,-6.0,0.0,,1.0,False,2025-04-07,1.0,
+245,Kavya Desai,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,42.0,0.0,21.0,0,42,2.0,-21.0,0.0,,1.0,False,2025-04-07,1.0,
+246,Keerthana Sairam,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+247,Laila Alva,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+248,Maleah Mehta,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+249,Mallika Wavare,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,3,42.0,0.0,19.3,0,42,2.0,-19.3,0.0,,1.0,False,2025-04-07,1.0,
+250,Nishta Rajan,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,0.0,0.0,7.5,0,15,2.0,-7.5,0.0,,1.0,False,2025-04-07,1.0,
+251,Priyanshi Singh,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,80.0,0.0,40.0,0,80,1.5,-40.0,0.0,,1.0,False,2025-04-07,1.0,
+252,Radha Khare,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,1,0.0,0.0,0.0,0,0,2.0,0.0,0.0,,1.0,False,2025-04-07,1.0,
+253,Riwa Desai,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,0.0,0.0,7.5,0,15,1.5,-7.5,0.0,,1.0,False,2025-04-07,1.0,
+254,Sanjna Sridhar,Non-Cis,Unknown,Unknown,Unknown,2,0,,0.0,,APL 7.0,False,2,80.0,0.0,40.0,0,80,1.5,-40.0,0.0,,1.0,False,2025-04-07,1.0,
+255,Ahaan Krishnaprasad,Man,Unknown,Unknown,Unknown,1,80,Star,0.5,1.0,APL 8.0,True,3,80.0,80.0,37.3,0,80,1.7,42.7,-0.7,0.48,1.0,True,2025-04-07,1.0,70.0
+256,Archit Das,Man,Unknown,Star Player,Star Player,1,120,GOAT,0.33,2.0,APL 8.0,True,2,120.0,120.0,60.0,0,120,1.5,60.0,-0.5,0.32,1.0,True,2025-04-07,1.0,111.0
+257,Bhavin Shivaa,Man,Unknown,Unknown,Unknown,1,80,Star,0.5,3.0,APL 8.0,True,2,80.0,80.0,40.0,0,80,1.0,40.0,0.0,0.4,1.0,True,2025-04-07,1.0,72.0
+258,Chirag Kulshreshtha,Man,Unknown,Unknown,Unknown,1,80,Star,0.5,4.0,APL 8.0,True,2,80.0,80.0,40.0,0,80,1.5,40.0,-0.5,0.48,1.0,False,2025-04-07,1.0,74.0
+259,Dawood,Man,Unknown,Star Player,Star Player,1,120,GOAT,0.33,5.0,APL 8.0,True,1,0.0,120.0,120.0,120,120,1.0,0.0,0.0,0.33,1.0,False,2025-04-07,1.0,120.0
+260,Dhananjay Sinh,Man,Unknown,Star Player,Star Player,1,120,GOAT,0.33,6.0,APL 8.0,True,3,120.0,120.0,58.3,0,120,1.3,61.7,-0.30000000000000004,0.32,1.0,False,2025-04-07,1.0,103.0
+261,Dhruv Achappa,Man,Unknown,Star Player,Star Player,1,120,GOAT,0.33,7.0,APL 8.0,True,3,120.0,120.0,69.0,0,120,1.0,51.0,0.0,0.26,1.0,False,2025-04-07,1.0,105.0
+262,Jaidhar Vashist,Man,Unknown,Star Player,Star Player,1,120,GOAT,0.33,8.0,APL 8.0,True,3,120.0,120.0,60.0,0,120,1.3,60.0,-0.30000000000000004,0.32,1.0,False,2025-04-07,1.0,104.0
+263,Kushagra Agarwal,Man,Unknown,Unknown,Unknown,1,80,Star,0.5,9.0,APL 8.0,True,1,0.0,80.0,80.0,80,80,1.0,0.0,0.0,0.5,1.0,False,2025-04-07,1.0,80.0
+264,Nikhil Mishra,Man,Unknown,Unknown,Unknown,1,80,Star,0.5,10.0,APL 8.0,True,2,0.0,80.0,62.5,45,80,1.0,17.5,0.0,0.4,1.0,False,2025-04-07,1.0,76.0
+265,Samarinho,Man,Unknown,Unknown,Unknown,1,80,Star,0.5,11.0,APL 8.0,True,1,0.0,80.0,80.0,80,80,1.0,0.0,0.0,0.5,1.0,False,2025-04-07,1.0,80.0
+266,Abdi,Man,Unknown,Star Player,Star Player,1,120,GOAT,0.33,12.0,APL 8.0,True,1,0.0,120.0,120.0,120,120,1.0,0.0,0.0,0.33,1.0,False,2025-04-07,1.0,120.0
+267,141,Man,Unknown,Unknown,Unknown,1,80,Star,0.5,120.0,APL 8.0,True,1,0.0,80.0,80.0,80,80,1.0,0.0,0.0,0.5,1.0,False,2025-04-07,1.0,80.0
+268,Aman Antil,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,1.0,APL 8.0,True,3,42.0,21.0,35.0,0,63,1.3,7.0,0.7,0.45,1.0,True,2025-04-07,1.0,39.0
+269,Angad Kanwar,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,2.0,APL 8.0,True,2,42.0,21.0,21.0,0,42,2.0,21.0,0.0,0.57,1.0,True,2025-04-07,1.0,38.0
+270,Aryan Unarkat,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,3.0,APL 8.0,True,2,42.0,21.0,21.0,0,42,2.0,21.0,0.0,0.57,1.0,True,2025-04-07,1.0,38.0
+271,Denzel Chinda,Man,Unknown,Star Player,Star Player,2,110,GOAT,0.27,4.0,APL 8.0,True,1,0.0,55.0,110.0,110,110,2.0,0.0,0.0,0.27,1.0,False,2025-04-07,1.0,110.0
+272,Dhruv Damodhar,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,5.0,APL 8.0,True,2,0.0,21.0,44.0,42,46,1.5,-2.0,0.5,0.68,1.0,False,2025-04-07,1.0,41.0
+273,Dhruv Pandey,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,6.0,APL 8.0,True,2,42.0,21.0,21.0,0,42,2.0,21.0,0.0,0.57,1.0,False,2025-04-07,1.0,38.0
+274,Krrish Vikram Jain,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,7.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+275,Lamkhogin Haokip,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,8.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+276,Munashe Nyagono,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,9.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+277,Samarth bhirani,Man,Unknown,Box-to-Box Midfielder,Box-to-Box Midfielder,2,42,High Quality,0.71,10.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+278,Samip Dahal,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,11.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+279,Shaurya Singh,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,12.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+280,Vehaan Wadhwa,Man,Unknown,Ball Playing Center Back,Ball Playing Center Back,2,18,Good,1.67,13.0,APL 8.0,True,1,0.0,9.0,18.0,18,18,2.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,18.0
+281,Viraat Sinh,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,14.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+282,14,Man,Unknown,Unknown,Unknown,2,42,High Quality,0.71,120.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+283,Aadi Menon,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,1.0,APL 8.0,True,2,0.0,5.0,9.0,3,15,3.5,6.0,-0.5,1.28,1.0,True,2025-04-07,1.0,14.0
+284,Aamer Jalan,Man,Unknown,Ball Playing Center Back,Ball Playing Center Back,3,15,Good,1.33,2.0,APL 8.0,True,2,0.0,5.0,13.5,12,15,3.0,1.5,0.0,1.06,1.0,True,2025-04-07,1.0,15.0
+285,Aarav Jain,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,3.0,APL 8.0,True,2,0.0,5.0,10.0,5,15,3.5,5.0,-0.5,1.28,1.0,True,2025-04-07,1.0,14.0
+286,Aarush Saxena,Man,Unknown,Ball Playing Center Back,Ball Playing Center Back,3,15,Good,1.33,4.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+287,Aashraya Adhikari,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,5.0,APL 8.0,True,2,0.0,5.0,26.0,15,37,3.0,-11.0,0.0,1.6,1.0,False,2025-04-07,1.0,17.0
+288,Aayan Jain,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,6.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+289,Abeer Karandikar,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,7.0,APL 8.0,True,2,0.0,5.0,15.5,15,16,3.0,-0.5,0.0,1.6,1.0,False,2025-04-07,1.0,15.0
+290,Adhiraj Singh,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,8.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+291,Aditya Dogra,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,9.0,APL 8.0,True,2,0.0,5.0,9.0,3,15,3.5,6.0,-0.5,1.28,1.0,False,2025-04-07,1.0,14.0
+292,Aditya Malhotra,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,10.0,APL 8.0,True,2,0.0,5.0,21.0,15,27,3.0,-6.0,0.0,1.6,1.0,False,2025-04-07,1.0,16.0
+293,Aditya Thapar,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,11.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+294,Akash Kundu,Man,Unknown,Box-to-Box Midfielder,Box-to-Box Midfielder,3,35,High Quality,0.57,12.0,APL 8.0,True,1,0.0,11.666666666666666,35.0,35,35,3.0,0.0,0.0,0.57,1.0,False,2025-04-07,1.0,35.0
+295,Aman Sharma,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,13.0,APL 8.0,True,2,0.0,5.0,13.5,12,15,3.5,1.5,-0.5,1.28,1.0,False,2025-04-07,1.0,15.0
+296,Anirudh,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,14.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+297,Anupam Varma,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,15.0,APL 8.0,True,2,0.0,5.0,8.5,2,15,3.5,6.5,-0.5,1.28,1.0,False,2025-04-07,1.0,14.0
+298,Arnav Haldia,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,16.0,APL 8.0,True,2,0.0,5.0,11.5,8,15,3.5,3.5,-0.5,1.28,1.0,False,2025-04-07,1.0,15.0
+299,Arnav Mayur,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,17.0,APL 8.0,True,1,0.0,5.0,10.5,6,15,3.5,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+300,Arya Shah,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,18.0,APL 8.0,True,2,0.0,5.0,11.5,8,15,3.5,3.5,-0.5,1.28,1.0,False,2025-04-07,1.0,15.0
+301,Aryamaan Girish,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,19.0,APL 8.0,True,3,15.0,5.0,14.7,0,29,2.7,0.3000000000000007,0.2999999999999998,0.85,1.0,False,2025-04-07,1.0,15.0
+302,Aryaman Singh,Man,Unknown,Box-to-Box Midfielder,Box-to-Box Midfielder,3,35,High Quality,0.57,20.0,APL 8.0,True,1,0.0,11.666666666666666,35.0,35,35,3.0,0.0,0.0,0.57,1.0,False,2025-04-07,1.0,35.0
+303,Ayushman Roy,Man,Unknown,Ball Playing Center Back,Ball Playing Center Back,3,15,Good,1.33,21.0,APL 8.0,True,2,0.0,5.0,17.0,15,19,3.0,-2.0,0.0,1.6,1.0,False,2025-04-07,1.0,15.0
+304,Dhruv Korula,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,22.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+305,Gian Adri,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,23.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+306,Gokul Sundararaghavan,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,24.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+307,Govind Warrier,Man,Unknown,Reserve Player,Reserve Player,3,8,Cheap,2.5,25.0,APL 8.0,True,1,0.0,2.6666666666666665,8.0,8,8,3.0,0.0,0.0,2.5,1.0,False,2025-04-07,1.0,8.0
+308,Ishan Dubey,Man,Unknown,Reserve Player,Reserve Player,3,8,Cheap,2.5,26.0,APL 8.0,True,2,0.0,2.6666666666666665,5.5,3,8,3.5,2.5,-0.5,2.4,1.0,False,2025-04-07,1.0,8.0
+309,Jatin Dangi,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,27.0,APL 8.0,True,2,0.0,5.0,11.5,8,15,3.0,3.5,0.0,1.06,1.0,False,2025-04-07,1.0,14.0
+310,Jeevant Rajeev,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,28.0,APL 8.0,True,2,0.0,5.0,24.5,15,34,2.5,-9.5,0.5,1.28,1.0,False,2025-04-07,1.0,16.0
+311,Karthik Sridhar,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,29.0,APL 8.0,True,2,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+312,Maaher Bhagwagar,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,30.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+313,Manan Nahar,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,31.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+314,Mohamed Hashi,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,32.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+315,Negash,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,33.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+316,Nisanka Khataniar,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,34.0,APL 8.0,True,2,0.0,5.0,11.5,8,15,3.5,3.5,-0.5,1.28,1.0,False,2025-04-07,1.0,15.0
+317,Pratyush Panda,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,35.0,APL 8.0,True,2,0.0,5.0,16.0,15,17,3.5,-1.0,-0.5,1.92,1.0,False,2025-04-07,1.0,16.0
+318,Prithvij Mody,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,36.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+319,Purujit Banwasi,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,37.0,APL 8.0,True,2,0.0,5.0,17.5,15,20,3.0,-2.5,0.0,1.6,1.0,False,2025-04-07,1.0,16.0
+320,Raheem Manoj,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,38.0,APL 8.0,True,2,0.0,5.0,9.5,4,15,3.5,5.5,-0.5,1.28,1.0,False,2025-04-07,1.0,14.0
+321,Ramit Sachdev,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,39.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+322,San,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,40.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+323,Sarib Yousuf,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,41.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+324,Shaurya Batra,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,42.0,APL 8.0,True,2,0.0,5.0,15.0,15,15,3.5,0.0,-0.5,1.6,1.0,False,2025-04-07,1.0,15.0
+325,Siddharth Sonal,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,43.0,APL 8.0,True,2,0.0,5.0,15.5,15,16,3.0,-0.5,0.0,1.6,1.0,False,2025-04-07,1.0,15.0
+326,Snehal Papnoi,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,44.0,APL 8.0,True,2,0.0,5.0,11.0,7,15,3.5,4.0,-0.5,1.28,1.0,False,2025-04-07,1.0,15.0
+327,Tanay Parekh,Man,Unknown,Ball Playing Center Back,Ball Playing Center Back,3,15,Good,1.33,45.0,APL 8.0,True,2,0.0,5.0,19.5,15,24,3.0,-4.5,0.0,1.6,1.0,False,2025-04-07,1.0,16.0
+328,Tanmay Jalan,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,46.0,APL 8.0,True,2,0.0,5.0,9.5,4,15,3.5,5.5,-0.5,1.28,1.0,False,2025-04-07,1.0,14.0
+329,Uday Srivastava,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,47.0,APL 8.0,True,2,0.0,5.0,17.0,15,19,2.5,-2.0,0.5,1.28,1.0,False,2025-04-07,1.0,15.0
+330,Utkarsh Saxena,Man,Unknown,Forward/Number 9/CAN,Forward/Number 9/CAN,3,65,Star,0.31,48.0,APL 8.0,True,1,0.0,21.666666666666668,65.0,65,65,3.0,0.0,0.0,0.31,1.0,False,2025-04-07,1.0,65.0
+331,Uttkarsh Kohli,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,49.0,APL 8.0,True,2,0.0,5.0,20.0,15,25,3.0,-5.0,0.0,1.6,1.0,False,2025-04-07,1.0,16.0
+332,Vatsl Goswami,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,50.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+333,Veer Singh,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,51.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+334,Vibhu Singh,Man,Unknown,Box-to-Box Midfielder,Box-to-Box Midfielder,3,35,High Quality,0.57,52.0,APL 8.0,True,1,0.0,11.666666666666666,35.0,35,35,3.0,0.0,0.0,0.57,1.0,False,2025-04-07,1.0,35.0
+335,Vignesh P,Man,Unknown,Goalkeeper,Goalkeeper,3,15,Good,1.33,53.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+336,Vishnu Pandey,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,54.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+337,Yash Keshan,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,55.0,APL 8.0,True,2,0.0,5.0,10.0,5,15,3.5,5.0,-0.5,1.28,1.0,False,2025-04-07,1.0,14.0
+338,Yashwanth Reddy,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,56.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+339,56,Man,Unknown,Unknown,Unknown,3,15,Good,1.33,120.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+340,Aan Rakshit,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,1.0,APL 8.0,True,2,0.0,1.5,4.0,2,6,4.0,2.0,0.0,1.34,1.0,True,2025-04-07,1.0,6.0
+341,Aarav Gupta,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,2.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,True,2025-04-07,1.0,6.0
+342,Aarav R,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,3.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,True,2025-04-07,1.0,6.0
+343,Abdikarim,Man,Unknown,Forward/Number 9/CAN,Forward/Number 9/CAN,4,58,Star,0.17,4.0,APL 8.0,True,1,0.0,14.5,58.0,58,58,4.0,0.0,0.0,0.17,1.0,False,2025-04-07,1.0,58.0
+344,Adit Deo Singh,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,5.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+345,Aditya Apurva,Man,Unknown,Reserve Player,Reserve Player,4,6,Cheap,1.67,6.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+346,Aditya Gupta,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,7.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+347,Aditya Jain,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,8.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+348,Agastya Mehra,Man,Unknown,Center Back (Sweeper),Center Back (Sweeper),4,12,Good,0.83,9.0,APL 8.0,True,1,0.0,3.0,12.0,12,12,4.0,0.0,0.0,0.83,1.0,False,2025-04-07,1.0,12.0
+349,Amartya pandey,Man,Unknown,Center Back (Sweeper),Center Back (Sweeper),4,12,Good,0.83,10.0,APL 8.0,True,1,0.0,3.0,12.0,12,12,4.0,0.0,0.0,0.83,1.0,False,2025-04-07,1.0,12.0
+350,Amogh Agarwal,Man,Unknown,Center Back (Sweeper),Center Back (Sweeper),4,12,Good,0.83,11.0,APL 8.0,True,2,0.0,3.0,11.0,10,12,3.5,1.0,0.5,0.53,1.0,False,2025-04-07,1.0,12.0
+351,Aneesh Dasgupta,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,12.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+352,Aniket Agarwal,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,13.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+353,Ansh Kundu,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,14.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+354,Ansh Madan,Man,Unknown,Reserve Player,Reserve Player,4,6,Cheap,1.67,15.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+355,Arav Khanna,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,16.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+356,Arav Mago,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,17.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+357,Arhaan Gupta,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,18.0,APL 8.0,True,2,0.0,1.5,5.0,4,6,4.0,1.0,0.0,1.34,1.0,False,2025-04-07,1.0,6.0
+358,Arin Baswana,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,19.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+359,Arjun Kumbnani,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,20.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+360,Arnav Goyal,Man,Unknown,Center Back (Sweeper),Center Back (Sweeper),4,12,Good,0.83,21.0,APL 8.0,True,1,0.0,3.0,12.0,12,12,4.0,0.0,0.0,0.83,1.0,False,2025-04-07,1.0,12.0
+361,Arnav Gupta,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,22.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+362,Arnav Mayur,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,23.0,APL 8.0,True,1,0.0,1.5,10.5,6,15,3.5,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+363,Arnav Sahni,Man,Unknown,Reserve Player,Reserve Player,4,6,Cheap,1.67,24.0,APL 8.0,True,2,0.0,1.5,9.5,6,13,3.5,-3.5,0.5,1.6,1.0,False,2025-04-07,1.0,7.0
+364,Arush Yadav,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,25.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+365,Arv Gupta,Man,Unknown,Reserve Player,Reserve Player,4,6,Cheap,1.67,26.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+366,Arvind Srinivas,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,27.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+367,Aryan Gupta,Man,Unknown,Reserve Player,Reserve Player,4,6,Cheap,1.67,28.0,APL 8.0,True,2,0.0,1.5,5.0,4,6,4.0,1.0,0.0,1.34,1.0,False,2025-04-07,1.0,6.0
+368,Aryan Kumar,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,29.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+369,Ashish Manav,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,30.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+370,Atin Mittal,Man,Unknown,Goalkeeper,Goalkeeper,4,12,Good,0.83,31.0,APL 8.0,True,1,0.0,3.0,12.0,12,12,4.0,0.0,0.0,0.83,1.0,False,2025-04-07,1.0,12.0
+371,Auvi Mukherjee,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,32.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+372,Aviraj Chopra,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,33.0,APL 8.0,True,2,0.0,1.5,5.0,4,6,4.0,1.0,0.0,1.34,1.0,False,2025-04-07,1.0,6.0
+373,Ayush Neogi,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,34.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+374,Chandan Hande,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,35.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+375,Dakshin Vinod,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,36.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+376,Dev Karan Singh,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,37.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+377,Devagya Singh,Man,Unknown,Forward/Number 9/CAN,Forward/Number 9/CAN,4,58,Star,0.17,38.0,APL 8.0,True,1,0.0,14.5,58.0,58,58,4.0,0.0,0.0,0.17,1.0,False,2025-04-07,1.0,58.0
+378,Dhruv Kumar,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,39.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+379,Dhruv Padam,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,40.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+380,Durbadal Chatterjee,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,41.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+381,Fibion,Man,Unknown,Forward/Number 9/CAN,Forward/Number 9/CAN,4,58,Star,0.17,42.0,APL 8.0,True,1,0.0,14.5,58.0,58,58,4.0,0.0,0.0,0.17,1.0,False,2025-04-07,1.0,58.0
+382,Gautam Chari,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,43.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+383,Gautam Gupta,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,44.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+384,Harsh Jain,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,45.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+385,Ishaan Nayyar,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,46.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+386,Ishabasya Moitra,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,47.0,APL 8.0,True,2,0.0,1.5,11.0,6,16,4.0,-5.0,0.0,2.0,1.0,False,2025-04-07,1.0,7.0
+387,Jai Karwa,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,48.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+388,Joshua Cousins,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,49.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+389,Junaid Farooq,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,50.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+390,Kalid,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,51.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+391,Kappil Antil,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,52.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+392,Karan Kapadia,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,53.0,APL 8.0,True,2,0.0,1.5,3.5,1,6,4.0,2.5,0.0,1.34,1.0,False,2025-04-07,1.0,6.0
+393,Karman Rai,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,54.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+394,Keshav Agrawal,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,55.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+395,Khem Raj Bhatta,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,56.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+396,Krishna Sidde,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,57.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+397,Kunal Singh,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,58.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+398,Kushal Shahi,Man,Unknown,Ball Playing Center Back,Ball Playing Center Back,4,12,Good,0.83,59.0,APL 8.0,True,2,0.0,3.0,9.5,7,12,3.5,2.5,0.5,0.53,1.0,False,2025-04-07,1.0,11.0
+399,60,Man,Unknown,Unknown,Unknown,4,6,Cheap,1.67,120.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+400,Anandita Saxena,Non-Cis,Unknown,Unknown,Unknown,1,80,Star,0.5,1.0,APL 8.0,True,1,0.0,80.0,80.0,80,80,1.0,0.0,0.0,0.5,1.0,True,2025-04-07,1.0,80.0
+401,Anandi Somiah,Non-Cis,Unknown,Unknown,Unknown,1,80,Star,0.5,2.0,APL 8.0,True,2,80.0,80.0,40.0,0,80,1.0,40.0,0.0,0.4,1.0,True,2025-04-07,1.0,72.0
+402,Anaaya Ravishankar,Non-Cis,Unknown,Unknown,Unknown,1,80,Star,0.5,3.0,APL 8.0,True,2,80.0,80.0,40.0,0,80,1.5,40.0,-0.5,0.48,1.0,True,2025-04-07,1.0,74.0
+403,Priyanshi Singh,Non-Cis,Unknown,Unknown,Unknown,1,80,Star,0.5,4.0,APL 8.0,True,2,80.0,80.0,40.0,0,80,1.5,40.0,-0.5,0.48,1.0,False,2025-04-07,1.0,74.0
+404,Khwaish Surana,Non-Cis,Unknown,Unknown,Unknown,1,80,Star,0.5,5.0,APL 8.0,True,1,0.0,80.0,80.0,80,80,1.0,0.0,0.0,0.5,1.0,False,2025-04-07,1.0,80.0
+405,Aania Muthreja,Non-Cis,Unknown,Unknown,Unknown,1,80,Star,0.5,6.0,APL 8.0,True,1,0.0,80.0,80.0,80,80,1.0,0.0,0.0,0.5,1.0,False,2025-04-07,1.0,80.0
+406,Sanjna Sridhar,Non-Cis,Unknown,Unknown,Unknown,1,80,Star,0.5,7.0,APL 8.0,True,2,80.0,80.0,40.0,0,80,1.5,40.0,-0.5,0.48,1.0,False,2025-04-07,1.0,74.0
+407,Saanvi Khurana,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,1.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,True,2025-04-07,1.0,42.0
+408,Mallika Wavare,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,2.0,APL 8.0,True,3,42.0,21.0,19.3,0,42,2.0,22.7,0.0,0.57,1.0,True,2025-04-07,1.0,35.0
+409,Renuka Yadav,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,3.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,True,2025-04-07,1.0,42.0
+410,Kusum,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,4.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+411,Manvi Agarwal,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,5.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+412,Anaya Chakrawarti,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,6.0,APL 8.0,True,2,42.0,21.0,21.0,0,42,2.5,21.0,-0.5,0.68,1.0,False,2025-04-07,1.0,39.0
+413,Kavya Desai,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,7.0,APL 8.0,True,2,42.0,21.0,21.0,0,42,2.0,21.0,0.0,0.57,1.0,False,2025-04-07,1.0,38.0
+414,Nihar Roy,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,8.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+415,Juni,Non-Cis,Unknown,Unknown,Unknown,2,42,High Quality,0.71,9.0,APL 8.0,True,1,0.0,21.0,42.0,42,42,2.0,0.0,0.0,0.71,1.0,False,2025-04-07,1.0,42.0
+416,Tanisha Iyer,Non-Cis,Unknown,Unknown,Unknown,3,15,Good,1.33,1.0,APL 8.0,True,3,15.0,5.0,7.7,0,15,2.7,7.3,0.2999999999999998,0.85,1.0,True,2025-04-07,1.0,13.0
+417,Shriya Gera,Non-Cis,Unknown,Unknown,Unknown,3,15,Good,1.33,2.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,True,2025-04-07,1.0,15.0
+418,Krasanya gaur,Non-Cis,Unknown,Unknown,Unknown,3,15,Good,1.33,3.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,True,2025-04-07,1.0,15.0
+419,Rianna Basu,Non-Cis,Unknown,Unknown,Unknown,3,15,Good,1.33,4.0,APL 8.0,True,2,15.0,5.0,7.5,0,15,3.5,7.5,-0.5,1.28,1.0,False,2025-04-07,1.0,14.0
+420,Aashna Thomas,Non-Cis,Unknown,Unknown,Unknown,3,15,Good,1.33,5.0,APL 8.0,True,2,15.0,5.0,7.5,0,15,3.0,7.5,0.0,1.06,1.0,False,2025-04-07,1.0,14.0
+421,Arayna Dasgupta,Non-Cis,Unknown,Unknown,Unknown,3,15,Good,1.33,6.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+422,Sneha Gupta,Non-Cis,Unknown,Unknown,Unknown,3,15,Good,1.33,7.0,APL 8.0,True,1,0.0,5.0,15.0,15,15,3.0,0.0,0.0,1.33,1.0,False,2025-04-07,1.0,15.0
+423,Manya dhanda,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,1.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,True,2025-04-07,1.0,6.0
+424,Zaara Minotra,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,2.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,True,2025-04-07,1.0,6.0
+425,Amiya Leekha,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,3.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,True,2025-04-07,1.0,6.0
+426,Sara Pandey,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,4.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+427,Anya Gosain,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,5.0,APL 8.0,True,2,0.0,1.5,6.0,6,6,3.5,0.0,0.5,1.34,1.0,False,2025-04-07,1.0,6.0
+428,Sahaj Kishen,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,6.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+429,Twisha,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,7.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+430,Aditi Narwekar,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,8.0,APL 8.0,True,3,6.0,1.5,3.7,0,6,4.0,2.3,0.0,1.34,1.0,False,2025-04-07,1.0,5.0
+431,Vini,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,9.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+432,Chitrakshi,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,10.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+433,Ananya Samhita,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,11.0,APL 8.0,True,3,6.0,1.5,2.7,0,6,3.3,3.3,0.7000000000000002,1.07,1.0,False,2025-04-07,1.0,5.0
+434,Kaitlyn Machado,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,12.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+435,Cara Sukhtankar,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,13.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+436,Arundhati Satyam,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,14.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+437,Shria Nair,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,15.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+438,Insha Khan,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,16.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+439,Jaee Ponde,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,17.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+440,Maheera,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,18.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+441,Vyoma Thakkar,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,19.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+442,Saanvi Magod,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,20.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+443,Tanvi Jain,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,21.0,APL 8.0,True,2,0.0,1.5,4.0,2,6,3.5,2.0,0.5,1.07,1.0,False,2025-04-07,1.0,5.0
+444,Amirtha Apollo,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,22.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+445,Isha Kanudia,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,23.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+446,Esha Lankesh,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,24.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
+447,Ananya Chaddha,Non-Cis,Unknown,Unknown,Unknown,4,6,Cheap,1.67,25.0,APL 8.0,True,1,0.0,1.5,6.0,6,6,4.0,0.0,0.0,1.67,1.0,False,2025-04-07,1.0,6.0
